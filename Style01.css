@@ -1,0 +1,29 @@
+        h1 {
+            font-family: arial;
+            font-size: 18px;
+            color: blue;
+            /* set heading color */
+        }
+
+        p {
+            font-family: arial;
+            color: red;
+            line-height: 1.5;
+            /* inline comments can be added to styles */
+        }
+
+        .boldpara {
+            font-family: arial;
+            font-weight: bold;
+            color: red;
+            line-height: 1.5;
+            /* bold paragraph formatting*/
+        }
+
+        .quote {
+            font-family: arial;
+            font-style: italic;
+            color: red;
+            line-height: 1.5;
+            /* bold paragraph formatting*/
+        }
