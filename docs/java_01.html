@@ -2,9 +2,27 @@
 <html>
     <head>
         <link rel="stylesheet" href="style_01.css">
+        <script>
+            function myFunction() {
+              document.getElementById("demo").innerHTML = "Paragraph changed.";
+            }
+            </script>
     </head>
     <body>
         <h1>JavaScript Test</h1>
         <p>This test page is designed to see if JavaScript elements, which are normally stripped out of code that has been pasted directly into Evolve, can be pulled down by referencing an HTML page within an iframe</p>
+        <p>The internal clock in JavaScript counts from midnight January 1, 1970.</p>
+<p>The getTime() function returns the number of milliseconds since then:</p>
+
+<p id="time"></p>
+
+<script>
+var d = new Date();
+document.getElementById("time").innerHTML = d.getTime();
+</script>
+<h1>A Web Page</h1>
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+
     </body>
 </html>
