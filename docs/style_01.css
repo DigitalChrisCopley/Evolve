@@ -1,6 +1,11 @@
-        body {background-color: #eeeeee;}
+body {background-color: #eeeeee;}
         
-div{width: 760px; border: 1px black; align-self: center; background-color: #ffffff;}
+        .boxdiv {
+            width: 760px; 
+            border: 1px black; 
+            align-self: center; 
+            background-color: #ffffff;
+        }
 
         h1 {
             font-family: 'Times New Roman', Times, serif;
