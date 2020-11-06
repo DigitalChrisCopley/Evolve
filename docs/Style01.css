@@ -1,21 +1,23 @@
         h1 {
-            font-family: arial;
+            font-family: 'Times New Roman', Times, serif;
             font-size: 18px;
-            color: blue;
+            color: green;
             /* set heading color */
         }
 
         p {
             font-family: arial;
-            color: red;
+            color: black;
             line-height: 1.5;
+            font-size: 12pt;
             /* inline comments can be added to styles */
         }
 
         .boldpara {
             font-family: arial;
             font-weight: bold;
-            color: red;
+            color: darkblue;
+            font-size: 12pt;
             line-height: 1.5;
             /* bold paragraph formatting*/
         }
@@ -23,7 +25,8 @@
         .quote {
             font-family: arial;
             font-style: italic;
-            color: red;
+            color: blueviolet;
+            font-size: 12pt;
             line-height: 1.5;
             /* bold paragraph formatting*/
         }
