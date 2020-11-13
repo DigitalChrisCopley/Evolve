@@ -17,7 +17,7 @@ body {background-color: #eeeeee;}
 
         h2 {
             font-family: Arial, Helvetica, sans-serif;
-            font-size: 14px;
+            font-size: 14pt;
             font-weight: bold;
             color: black;
             /* set heading color */
@@ -34,9 +34,9 @@ body {background-color: #eeeeee;}
         ul {
             font-family: arial;
             color: black;
-                line-height: 15.;
-                font-size: 12pt;
-                {
+            line-height: 1.5;
+            font-size: 12pt;
+        }
 
         .boldpara {
             font-family: arial;
