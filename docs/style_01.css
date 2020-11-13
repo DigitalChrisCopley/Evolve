@@ -31,6 +31,13 @@ body {background-color: #eeeeee;}
             /* inline comments can be added to styles */
         }
 
+        ul {
+            font-family: arial;
+            color: black;
+                line-height: 15.;
+                font-size: 12pt;
+                {
+
         .boldpara {
             font-family: arial;
             font-weight: bold;
