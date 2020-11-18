@@ -53,3 +53,8 @@ p, ul, ol {
     border-radius: 8px;
     padding: 8px;
 }
+
+a:link, a:visited {
+    color: darkblue;
+    text-decoration: none;
+}
