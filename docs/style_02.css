@@ -6,7 +6,7 @@
 }
 
 .divNarrow {
-    width: 800px;
+    max-width: 800px;
     background-color: whitesmoke;
     margin: 15px auto;
     padding: 15px;
