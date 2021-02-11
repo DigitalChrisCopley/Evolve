@@ -80,9 +80,10 @@
                 padding: 5px;
             }
 
-.navlink {
-    display: inline;
-}
+            .navlist {
+                display: inline;
+            }
+            
             a.navlink:hover,
             a.navlink:link,
             a.navlink:visited,
