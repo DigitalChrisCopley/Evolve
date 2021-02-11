@@ -79,9 +79,9 @@
                 color: white;
             }
 
-            #topnav a:hover,
-            #topnav a:link,
-            #topnav a:visited,
-            #topnav a:active {
+            a.navlink:hover,
+            a.navlink:link,
+            a.navlink:visited,
+            a.navlink:active {
                 color: white;
             }
