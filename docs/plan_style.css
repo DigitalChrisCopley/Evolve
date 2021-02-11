@@ -82,12 +82,15 @@
             li.navlist {
                 display: inline;
                 color: white;
+                padding: 6px;
                 border-right: solid white 2px;
+                
             }
 
             li.no-border {
                 display: inline;
                 color: white;
+                padding: 6px;
                 border-right: none;
 
             }
@@ -97,7 +100,7 @@
             a.navlink:visited,
             a.navlink:active {
                 color: white;
-                padding: 6px;
+                
                 display: inline;
             }
 
