@@ -83,14 +83,14 @@
             .navlist {
                 display: inline;
             }
-            
+
             a.navlink:hover,
             a.navlink:link,
             a.navlink:visited,
             a.navlink:active {
                 color: white;
                 padding: 6px;
-                
+                display: inline;
             }
 
             
