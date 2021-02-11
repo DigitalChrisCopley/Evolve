@@ -82,6 +82,14 @@
             li.navlist {
                 display: inline;
                 color: white;
+                border-right: solid white 2px;
+            }
+
+            li.no-border {
+                display: inline;
+                color: white;
+                border-right: none;
+
             }
 
             a.navlink:hover,
