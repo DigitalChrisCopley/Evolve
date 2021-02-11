@@ -78,10 +78,11 @@
                 text-align: center;
                 color: white;
                 padding: 5px;
-                display: inline;
             }
 
-
+.navlink {
+    display: inline;
+}
             a.navlink:hover,
             a.navlink:link,
             a.navlink:visited,
