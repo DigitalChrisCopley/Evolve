@@ -78,11 +78,9 @@
                 text-align: center;
                 color: white;
                 padding: 5px;
+                display: inline;
             }
 
-            topnav::first-child {
-                border: solid white 0px;
-            }
 
             a.navlink:hover,
             a.navlink:link,
@@ -90,7 +88,7 @@
             a.navlink:active {
                 color: white;
                 padding: 6px;
-                border-left: solid white 2px
+                
             }
 
             
