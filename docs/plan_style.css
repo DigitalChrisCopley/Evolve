@@ -78,3 +78,10 @@
                 text-align: center;
                 color: white;
             }
+
+            #topnav a:hover,
+            #topnav a:link,
+            #topnav a:visited,
+            #topnav a:active {
+                color: white;
+            }
