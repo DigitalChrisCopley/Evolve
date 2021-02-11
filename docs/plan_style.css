@@ -11,14 +11,14 @@
 
             a:link,
             a:visited {
-                color: darkblue;
+                color: #005091;
                 text-decoration: none;
                 font-size: 12pt;
             }
 
             a:active,
             a:hover {
-                color: darkblue;
+                color: #005091;
                 text-decoration: underline;
                 font-size: 12pt;
             }
