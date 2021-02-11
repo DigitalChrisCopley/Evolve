@@ -77,6 +77,11 @@
                 background-color: #006871;
                 text-align: center;
                 color: white;
+                padding: 5px;
+            }
+
+            topnav::first-child {
+                border: solid white 0px;
             }
 
             a.navlink:hover,
@@ -84,4 +89,8 @@
             a.navlink:visited,
             a.navlink:active {
                 color: white;
+                padding: 6px;
+                border-left: solid white 2px
             }
+
+            
