@@ -80,8 +80,9 @@
                 padding: 5px;
             }
 
-            .navlist {
+            li.navlist {
                 display: inline;
+                color: white;
             }
 
             a.navlink:hover,
